@@ -1,0 +1,2 @@
+class Xchange < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class AssetPair < ApplicationRecord
+end

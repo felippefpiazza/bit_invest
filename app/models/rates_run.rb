@@ -1,0 +1,2 @@
+class RatesRun < ApplicationRecord
+end
